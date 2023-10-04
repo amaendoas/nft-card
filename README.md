@@ -16,7 +16,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Links
 
-- [Live Site](...)
+- [Live Site](https://amaendoas.github.io/nft-card/)
 
 ## Built with
 
