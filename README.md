@@ -11,7 +11,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ## Layout
 | Desktop | Mobile |
 |----------|--------|
-|![Desktop](...)|![Mobile](...)
+|![Desktop](https://github.com/amaendoas/nft-card/assets/94807208/9b49a4a7-6400-4ba2-88b5-2514d5830c84)|![Mobile](https://github.com/amaendoas/nft-card/assets/94807208/c0b4ae89-d380-45c6-9c64-edde7bec0648)
+
 
 ## Links
 
